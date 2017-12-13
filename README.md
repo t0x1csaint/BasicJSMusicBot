@@ -1,13 +1,13 @@
 "# BasicJSMusicBot" 
 
-Node
-npm
-Dependency's 
-Discord.JS 
-Streamify
-youtube-dl
-ytdl-core
-ffmpeg
+'Node'
+'npm'
+'Dependency's' 
+'Discord.JS '
+'Streamify'
+'youtube-dl'
+'ytdl-core'
+'ffmpeg'
 
 How To Install Dependency's?
 
