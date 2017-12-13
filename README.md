@@ -20,7 +20,7 @@ Fill out the information in "Settings.js" and "Music.js" in the "Music" Folder.
 How do I run the bot?
 
 Open a command prompt window
-Run the command "cd "bot directory here" "
+Run the command "cd 'bot directory here' "
 Then run the command node .
 
 I'm still having issues! 
